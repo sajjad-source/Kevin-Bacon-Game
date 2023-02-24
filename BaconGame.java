@@ -6,7 +6,6 @@ import java.util.*;
 /**
  * Kevin Bacon game with interactive interface
  * @author Sajjad
- * @author Josue
  */
 public class BaconGame
 {
