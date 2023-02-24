@@ -7,7 +7,6 @@ import java.util.*;
  * 
  * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2016
  * @author Sajjad
- * @author Josue
  */
 public class GraphLib {
 	/**
